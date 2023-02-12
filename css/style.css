@@ -88,6 +88,9 @@ footer{
    padding:5px 10px;
 }
 
+.flex-item a#i{
+    background-image: url(../assets/images/seawave.png);
+}
 
 /* Media Queries for responsive design */
 
