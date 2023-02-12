@@ -1,2 +1,0 @@
-# wcc-portfolio-main
- 
